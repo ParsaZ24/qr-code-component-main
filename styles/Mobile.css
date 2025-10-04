@@ -1,0 +1,21 @@
+.main {
+  background-color: #d5e1ef;
+}
+
+.footer {
+  padding: 15px 6px;
+  background-color: #ffffff;
+}
+.footer-wrapper {
+  font-size: 0.8rem;
+  font-weight: 500;
+  line-height: 110%;
+  color: #68778d;
+  padding: 5px 10px;
+}
+
+.footer-wrapper a {
+  font-size: 1rem;
+  font-weight: 600;
+  color: #68778d;
+}
